@@ -2,7 +2,9 @@
 Materiale per le lezioni di laboratorio PSI_COM_11/2018
 #####
 CIAO A TUTTI!
+
 In questa cartella troverete 10 file Excel.
+
 Scaricate il file del vostro gruppo e buon lavoro (non richiederà più di 30 min).
 
 Vi ricordo che:
@@ -14,6 +16,7 @@ Vi ricordo che:
 - Alle volte i siti web organizzativi non hanno un account Twitter, il Feed o (tristemente) la localizzazione in Inglese... in quel caso, riempite il campo mancante con la sigla "N/A"
 
 Grazie in anticipo per il vostro supporto!
+####
 
 
 N
