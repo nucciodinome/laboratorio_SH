@@ -8,6 +8,8 @@ In questa cartella troverete documenti utili ad approfondire le tematiche di Net
 
 Utilizzate i file di vostro interesse e buon lavoro.
 
+P.s EVITATE, IL PIÙ POSSIBILE, DI DIFFONDERE I CONTENUTI DELLA CARTELLA ;)
+
 ####
 
 
